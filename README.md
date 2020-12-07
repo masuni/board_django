@@ -1,2 +1,3 @@
-# board_django
+# Board (Django)
+
 learn for django, docker
